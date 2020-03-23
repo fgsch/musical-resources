@@ -15,7 +15,7 @@
 
 ### Hardware
 
-* [Arduino USB Midi Converter](https://studiothorn.wordpress.com/2015/01/26/diy-time-part-1-arduino-usb-midi-converter/amp/) 
+* [Arduino USB Midi Converter](https://studiothorn.wordpress.com/2015/01/26/diy-time-part-1-arduino-usb-midi-converter/amp/)
 * [Bela](https://bela.io/) - Embedded computing platform for creating responsive interactive applications.
 * [Programmable Wrist Synth Pushes The Envelope](https://hackaday.com/2019/12/11/programmable-wrist-synth-pushes-the-envelope/)
 
