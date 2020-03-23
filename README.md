@@ -19,6 +19,8 @@
 
 * [Arduino USB Midi Converter](https://studiothorn.wordpress.com/2015/01/26/diy-time-part-1-arduino-usb-midi-converter/amp/) 
 
+* [Programmable Wrist Synth Pushes The Envelope](https://hackaday.com/2019/12/11/programmable-wrist-synth-pushes-the-envelope/)
+
 ### Reading
 
 * [Article](https://cprimozic.net/blog/buliding-a-wavetable-synthesizer-with-rust-wasm-and-webaudio/) - Building a Wavetable Synthesizer From Scratch with Rust, WebAssembly, and WebAudio.
@@ -27,7 +29,7 @@
 ### Samples
 
 * [SampleRadar](https://www.musicradar.com/news/sampleradar-252-free-303-style-acid-samples) - 252 free 303-style acid samples.
-* 
+
 
 ### Software synths
 
