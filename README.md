@@ -19,6 +19,7 @@ A curated list of articles, libraries, software and whatnot related to music.
 
 * [Arduino USB Midi Converter](https://studiothorn.wordpress.com/2015/01/26/diy-time-part-1-arduino-usb-midi-converter/amp/)
 * [Bela](https://bela.io/) - Embedded computing platform for creating responsive interactive applications.
+* [Music thing modular](https://musicthing.co.uk/) - Open source electronic musical instruments designed in London. Home of the [Turing machine](https://musicthing.co.uk/pages/turing.html)
 * [Programmable Wrist Synth Pushes The Envelope](https://hackaday.com/2019/12/11/programmable-wrist-synth-pushes-the-envelope/)
 
 ### Libraries
@@ -33,9 +34,7 @@ A curated list of articles, libraries, software and whatnot related to music.
 ### Reading
 
 * [A Conversation With Brian Eno About Ambient Music](https://pitchfork.com/features/interview/10023-a-conversation-with-brian-eno-about-ambient-music/)
-
 * [JavaScript Systems Music](https://teropa.info/blog/2016/07/28/javascript-systems-music.html) - Learning Web Audio by Recreating The Works of Steve Reich and Brian Eno.
-
 * [Modern Trends In Tape Music and Contemporary Artists in The Field](https://tpc.home.blog/2019/01/10/profile-modern-trends-in-tape-music-and-contemporary-artists-in-the-field/)
 
 ### Samples
