@@ -4,9 +4,11 @@
 
 [Unmixer](https://unmixer.ongaaccel.jp/) - An interface for extracting and remixing loops.
 
-### Chord progression
+### Chords
 
 [Musical Chord Progression Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw) - A quick way to sketch out musical chord progressions.
+
+[Piano chords](http://note.kitchen/)
 
 ### Digitakt
 
