@@ -21,6 +21,7 @@
 ### Reading
 
 * [JavaScript Systems Music](https://teropa.info/blog/2016/07/28/javascript-systems-music.html) - Learning Web Audio by Recreating The Works of Steve Reich and Brian Eno.
+* [Article](https://cprimozic.net/blog/buliding-a-wavetable-synthesizer-with-rust-wasm-and-webaudio/) - Building a Wavetable Synthesizer From Scratch with Rust, WebAssembly, and WebAudio.
 
 ### Samples
 
