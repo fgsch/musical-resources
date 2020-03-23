@@ -19,8 +19,11 @@ A curated list of articles, libraries, software and whatnot related to music.
 
 * [Arduino USB Midi Converter](https://studiothorn.wordpress.com/2015/01/26/diy-time-part-1-arduino-usb-midi-converter/amp/)
 * [Bela](https://bela.io/) - Embedded computing platform for creating responsive interactive applications.
+* [MIDI-Controlled Percussion Bot ](https://makezine.com/projects/midi-drum-bot/) - Use Solenoids to Build a MIDI-Controlled Percussion Bot 
+* [MIDI Glockenspiel](http://www.thebox.myzen.co.uk/Hardware/Glockenspiel.html) - Using an Arduino make a computer controller MIDI Glockenspiel
 * [Music thing modular](https://musicthing.co.uk/) - Open source electronic musical instruments designed in London. Home of the [Turing machine](https://musicthing.co.uk/pages/turing.html)
 * [Programmable Wrist Synth Pushes The Envelope](https://hackaday.com/2019/12/11/programmable-wrist-synth-pushes-the-envelope/)
+
 
 ### Libraries
 
