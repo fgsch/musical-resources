@@ -25,3 +25,10 @@
 ### Samples
 
 * [SampleRadar](https://www.musicradar.com/news/sampleradar-252-free-303-style-acid-samples) - 252 free 303-style acid samples.
+* 
+
+### Software synths
+
+* [Nodejs synth](https://medium.com/nebo-15/tutorial-how-to-create-midi-synthesizer-with-midi-api-and-node-js-48d41c162009) - How to create a MIDI synthesizer with MIDI API and Node JS
+
+* [Rust synth](https://cprimozic.net/blog/buliding-a-wavetable-synthesizer-with-rust-wasm-and-webaudio/) - Building a Wavetable Synthesizer From Scratch with Rust, WebAssembly, and WebAudio
