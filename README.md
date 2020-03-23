@@ -16,7 +16,7 @@
 
 ### Reads
 
-[JavaScript Systems Music](https://teropa.info/blog/2016/07/28/javascript-systems-music.html) - Learning Web Audio by Recreating The Works of Steve Reich and Brian Eno
+* [JavaScript Systems Music](https://teropa.info/blog/2016/07/28/javascript-systems-music.html) - Learning Web Audio by Recreating The Works of Steve Reich and Brian Eno
 
 ### Samples
 
