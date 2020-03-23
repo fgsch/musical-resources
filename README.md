@@ -17,6 +17,8 @@
 
 * [Bela](https://bela.io/) - Embedded computing platform for creating responsive interactive applications.
 
+* [Arduino USB Midi Converter](https://studiothorn.wordpress.com/2015/01/26/diy-time-part-1-arduino-usb-midi-converter/amp/) 
+
 ### Reading
 
 * [Article](https://cprimozic.net/blog/buliding-a-wavetable-synthesizer-with-rust-wasm-and-webaudio/) - Building a Wavetable Synthesizer From Scratch with Rust, WebAssembly, and WebAudio.
