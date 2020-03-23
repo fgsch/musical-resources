@@ -32,7 +32,11 @@ A curated list of articles, libraries, software and whatnot related to music.
 
 ### Reading
 
+* [A Conversation With Brian Eno About Ambient Music](https://pitchfork.com/features/interview/10023-a-conversation-with-brian-eno-about-ambient-music/)
+
 * [JavaScript Systems Music](https://teropa.info/blog/2016/07/28/javascript-systems-music.html) - Learning Web Audio by Recreating The Works of Steve Reich and Brian Eno.
+
+* [Modern Trends In Tape Music and Contemporary Artists in The Field](https://tpc.home.blog/2019/01/10/profile-modern-trends-in-tape-music-and-contemporary-artists-in-the-field/)
 
 ### Samples
 
