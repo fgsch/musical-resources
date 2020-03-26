@@ -14,6 +14,7 @@ A curated list of articles, libraries, software and whatnot related to music.
 ### Elektron Digitakt
 
 * [Elk-herd](https://electric.kitchen/crunch/elk-herd/) - Online tool for project and sample management on the Elektron Digitakt.
+* [Overbridge 2 Review part1](https://www.youtube.com/watch?v=ZLrNWKeUE_g) [Ableton Live Settings || Overbridge 2 ](https://www.youtube.com/watch?v=inKIWJ1Ck6I&feature=emb_logo)
 
 ### Hardware
 
