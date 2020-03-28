@@ -49,5 +49,6 @@ A curated list of articles, libraries, software and whatnot related to music.
 
 * [Nodejs synth](https://medium.com/nebo-15/tutorial-how-to-create-midi-synthesizer-with-midi-api-and-node-js-48d41c162009) - How to create a MIDI synthesizer with MIDI API and Node JS.
 * [Rust synth](https://cprimozic.net/blog/buliding-a-wavetable-synthesizer-with-rust-wasm-and-webaudio/) - Building a Wavetable Synthesizer From Scratch with Rust, WebAssembly, and WebAudio.
+* [Virtual Eurorack DAW](https://vcvrack.com/) - A software modular rack
 * [Web Audio Modules](https://www.webaudiomodules.org/) - Synthesizers and audio effects processors for web browsers.
 
