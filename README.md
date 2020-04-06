@@ -20,10 +20,11 @@ A curated list of articles, libraries, software and whatnot related to music.
 
 * [Arduino USB Midi Converter](https://studiothorn.wordpress.com/2015/01/26/diy-time-part-1-arduino-usb-midi-converter/amp/)
 * [Bela](https://bela.io/) - Embedded computing platform for creating responsive interactive applications.
-* [MIDI-Controlled Percussion Bot ](https://makezine.com/projects/midi-drum-bot/) - Use Solenoids to Build a MIDI-Controlled Percussion Bot 
+* [MIDI-Controlled Percussion Bot ](https://makezine.com/projects/midi-drum-bot/) - Use Solenoids to Build a MIDI-Controlled Percussion Bot
 * [MIDI Glockenspiel](http://www.thebox.myzen.co.uk/Hardware/Glockenspiel.html) - Using an Arduino make a computer controller MIDI Glockenspiel
 * [Music thing modular](https://musicthing.co.uk/) - Open source electronic musical instruments designed in London. Home of the [Turing machine](https://musicthing.co.uk/pages/turing.html)
 * [Programmable Wrist Synth Pushes The Envelope](https://hackaday.com/2019/12/11/programmable-wrist-synth-pushes-the-envelope/)
+* [Robotic Polyphonic MIDI Instrument](https://frankpiesik.wordpress.com/2020/04/02/gregs-harp/) - Using teensy 
 
 
 ### Libraries
@@ -51,4 +52,3 @@ A curated list of articles, libraries, software and whatnot related to music.
 * [Rust synth](https://cprimozic.net/blog/buliding-a-wavetable-synthesizer-with-rust-wasm-and-webaudio/) - Building a Wavetable Synthesizer From Scratch with Rust, WebAssembly, and WebAudio.
 * [Virtual Eurorack DAW](https://vcvrack.com/) - A software modular rack
 * [Web Audio Modules](https://www.webaudiomodules.org/) - Synthesizers and audio effects processors for web browsers.
-
