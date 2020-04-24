@@ -47,7 +47,7 @@ A curated list of articles, libraries, software and whatnot related to music.
 
 * [Forest field recordings](https://lucreciadalt.bandcamp.com/album/lucrecia-dalt-aaron-dilloway-field-recordings-in-the-forest-of-colombia) - Field recordings in the forest of colombia, bandcamp from Lucrecia Dalt Aaron Dilloway
 * [SampleRadar](https://www.musicradar.com/news/sampleradar-252-free-303-style-acid-samples) - 252 free 303-style acid samples.
-* [Superbooth 2020 samples](https://superbooth.com/files/downloads/SchneidersLaden_Sample_library-SB2020_Home_Edition.zip) - SCHNEIDERSLADEN sample pack
+* [Superbooth 2020 samples](https://superbooth.com/files/downloads/SchneidersLaden_Sample_library-SB2020_Home_Edition.zip) - Schneidersladen sample pack from Superbooth 2020 :sob:
 
 ### Software synths
 
