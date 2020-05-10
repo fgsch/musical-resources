@@ -14,7 +14,7 @@ A curated list of articles, libraries, software and whatnot related to music.
 ### Elektron Digitakt
 
 * [Elk-herd](https://electric.kitchen/crunch/elk-herd/) - Online tool for project and sample management on the Elektron Digitakt.
-* Overbridge 2 video tutorial [Review (part1)](https://www.youtube.com/watch?v=ZLrNWKeUE_g) -  [Ableton Live Settings (part2)](https://www.youtube.com/watch?v=inKIWJ1Ck6I&feature=emb_logo)
+* Overbridge 2 video tutorial [Review (part1)](https://www.youtube.com/watch?v=ZLrNWKeUE_g) - [Ableton Live Settings (part2)](https://www.youtube.com/watch?v=inKIWJ1Ck6I&feature=emb_logo)
 
 ### Hardware
 
@@ -26,11 +26,9 @@ A curated list of articles, libraries, software and whatnot related to music.
 * [Programmable Wrist Synth Pushes The Envelope](https://hackaday.com/2019/12/11/programmable-wrist-synth-pushes-the-envelope/)
 * [Robotic Polyphonic MIDI Instrument](https://frankpiesik.wordpress.com/2020/04/02/gregs-harp/) - Using teensy 
 
-
 ### Libraries
 
 * [Tone.js](https://tonejs.github.io/)
-
 
 ### Other lists
 
@@ -43,7 +41,6 @@ A curated list of articles, libraries, software and whatnot related to music.
 * [Modern Trends In Tape Music and Contemporary Artists in The Field](https://tpc.home.blog/2019/01/10/profile-modern-trends-in-tape-music-and-contemporary-artists-in-the-field/)
 
 ### Samples
-
 
 * [Forest field recordings](https://lucreciadalt.bandcamp.com/album/lucrecia-dalt-aaron-dilloway-field-recordings-in-the-forest-of-colombia) - Field recordings in the forest of colombia, bandcamp from Lucrecia Dalt Aaron Dilloway
 * [SampleRadar](https://www.musicradar.com/news/sampleradar-252-free-303-style-acid-samples) - 252 free 303-style acid samples.
