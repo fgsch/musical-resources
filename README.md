@@ -55,3 +55,5 @@ A curated list of articles, libraries, software and whatnot related to music.
 * [Rust synth](https://cprimozic.net/blog/buliding-a-wavetable-synthesizer-with-rust-wasm-and-webaudio/) - Building a Wavetable Synthesizer From Scratch with Rust, WebAssembly, and WebAudio.
 * [Virtual Eurorack DAW](https://vcvrack.com/) - A software modular rack
 * [Web Audio Modules](https://www.webaudiomodules.org/) - Synthesizers and audio effects processors for web browsers.
+* [Viktor NV-1](https://nicroto.github.io/viktor/) A software synthesizer.
+* [Zupiter](https://z.musictools.live/) Online Modular Synthesizer and step-sequencer.
