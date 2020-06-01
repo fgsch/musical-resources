@@ -5,6 +5,7 @@ A curated list of articles, libraries, software and whatnot related to music.
 ### General
 
 * [Unmixer](https://unmixer.ongaaccel.jp/) - An interface for extracting and remixing loops.
+* [WaveEdit](https://synthtech.com/waveedit/) - A cross-platform, open source waveform editor
 
 ### Chords
 
