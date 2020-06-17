@@ -47,6 +47,10 @@ A curated list of articles, libraries, software and whatnot related to music.
 * [SampleRadar](https://www.musicradar.com/news/sampleradar-252-free-303-style-acid-samples) - 252 free 303-style acid samples.
 * [Superbooth 2020 samples](https://superbooth.com/files/downloads/SchneidersLaden_Sample_library-SB2020_Home_Edition.zip) - Schneidersladen sample pack from Superbooth 2020 :sob:
 
+### Software
+
+* [Patchbox-os](https://www.blokas.io/patchbox-os/) - Custom Linux distribution specially designed for Raspberry Pi based audio projects.
+
 ### Software synths
 
 * [Nodejs synth](https://medium.com/nebo-15/tutorial-how-to-create-midi-synthesizer-with-midi-api-and-node-js-48d41c162009) - How to create a MIDI synthesizer with MIDI API and Node JS.
