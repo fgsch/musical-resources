@@ -49,7 +49,7 @@ A curated list of articles, libraries, software and whatnot related to music.
 
 ### Software
 
-* [Patchbox-os](https://www.blokas.io/patchbox-os/) - Custom Linux distribution specially designed for Raspberry Pi based audio projects.
+* [Patchbox OS](https://www.blokas.io/patchbox-os/) - Custom Linux distribution specially designed for Raspberry Pi based audio projects.
 
 ### Software synths
 
