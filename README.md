@@ -25,7 +25,7 @@ A curated list of articles, libraries, software and whatnot related to music.
 * [MIDI Glockenspiel](http://www.thebox.myzen.co.uk/Hardware/Glockenspiel.html) - Using an Arduino make a computer controller MIDI Glockenspiel
 * [Music thing modular](https://musicthing.co.uk/) - Open source electronic musical instruments designed in London. Home of the [Turing machine](https://musicthing.co.uk/pages/turing.html)
 * [Programmable Wrist Synth Pushes The Envelope](https://hackaday.com/2019/12/11/programmable-wrist-synth-pushes-the-envelope/)
-* [Robotic Polyphonic MIDI Instrument](https://frankpiesik.wordpress.com/2020/04/02/gregs-harp/) - Using teensy 
+* [Robotic Polyphonic MIDI Instrument](https://frankpiesik.wordpress.com/2020/04/02/gregs-harp/) - Using teensy
 
 ### Libraries
 
@@ -43,9 +43,11 @@ A curated list of articles, libraries, software and whatnot related to music.
 
 ### Samples
 
+* [BBC Sound Effects](http://bbcsfx.acropolis.org.uk/) - 16,000 BBC Sound Effects are made available
 * [Forest field recordings](https://lucreciadalt.bandcamp.com/album/lucrecia-dalt-aaron-dilloway-field-recordings-in-the-forest-of-colombia) - Field recordings in the forest of colombia, bandcamp from Lucrecia Dalt Aaron Dilloway
 * [SampleRadar](https://www.musicradar.com/news/sampleradar-252-free-303-style-acid-samples) - 252 free 303-style acid samples.
 * [Superbooth 2020 samples](https://superbooth.com/files/downloads/SchneidersLaden_Sample_library-SB2020_Home_Edition.zip) - Schneidersladen sample pack from Superbooth 2020 :sob:
+* [YellowStone sound library](https://www.nps.gov/yell/learn/photosmultimedia/soundlibrary.htm) - Welcome to the Yellowstone sound library, where you can immerse yourself in the aural landscape of America's first national park
 
 ### Software
 
