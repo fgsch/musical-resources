@@ -46,10 +46,10 @@ A curated list of articles, libraries, software and whatnot related to music.
 * [BBC Sound Effects](http://bbcsfx.acropolis.org.uk/) - 16,000 BBC Sound Effects are made available
 * [Digisoap](https://neutral-labs.com/digisoap/) - Plenty of FM single cycle waveforms formatted for your Elektron Digitakt
 * [Forest field recordings](https://lucreciadalt.bandcamp.com/album/lucrecia-dalt-aaron-dilloway-field-recordings-in-the-forest-of-colombia) - Field recordings in the forest of colombia, bandcamp from Lucrecia Dalt Aaron Dilloway
+* [Free Vaporwave Drum Kit](https://bvker.com/vaporwave-drum-kit/) - Aesthetic is a free Vaporwave drum kit, packed with over a hundred kicks, snares, claps, toms and cymbals.
 * [SampleRadar](https://www.musicradar.com/news/sampleradar-252-free-303-style-acid-samples) - 252 free 303-style acid samples.
 * [Superbooth 2020 samples](https://superbooth.com/files/downloads/SchneidersLaden_Sample_library-SB2020_Home_Edition.zip) - Schneidersladen sample pack from Superbooth 2020 :sob:
 * [YellowStone sound library](https://www.nps.gov/yell/learn/photosmultimedia/soundlibrary.htm) - Welcome to the Yellowstone sound library, where you can immerse yourself in the aural landscape of America's first national park
-
 
 ### Software
 
