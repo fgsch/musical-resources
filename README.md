@@ -64,3 +64,8 @@ A curated list of articles, libraries, software and whatnot related to music.
 * [Web Audio Modules](https://www.webaudiomodules.org/) - Synthesizers and audio effects processors for web browsers.
 * [Viktor NV-1](https://nicroto.github.io/viktor/) A software synthesizer.
 * [Zupiter](https://z.musictools.live/) Online Modular Synthesizer and step-sequencer.
+
+
+### Theory
+
+* [Analog Circuits for Music Synthesis](https://www.youtube.com/watch?list=PLOunECWxELQS5bMdWo9VhmZtsCjhjYNcV&v=mYk8r3QlNi8) - Analog Circuits for Music Synthesis video playlist 
