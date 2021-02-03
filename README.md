@@ -68,4 +68,4 @@ A curated list of articles, libraries, software and whatnot related to music.
 
 ### Theory
 
-* [Analog Circuits for Music Synthesis](https://www.youtube.com/watch?list=PLOunECWxELQS5bMdWo9VhmZtsCjhjYNcV&v=mYk8r3QlNi8) - Analog Circuits for Music Synthesis video playlist 
+* [Analog Circuits for Music Synthesis](https://www.youtube.com/watch?list=PLOunECWxELQS5bMdWo9VhmZtsCjhjYNcV&v=mYk8r3QlNi8) - Analog Circuits for Music Synthesis (Georgia Tech course) video playlist 
