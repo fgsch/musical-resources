@@ -59,7 +59,11 @@ A curated list of articles, libraries, software and whatnot related to music.
 
 ### Software
 
+* [Aapotome](https://isartum.net/apotome) - A browser-based generative music environment based on octave-repeating microtonal tuning systems. [Tutorial](https://vimeo.com/503451447)
+* [Leimma](https://isartum.net/leimma) - A browser-based tool for exploring, creating, hearing, and playing microtonal tuning systems.[Tutorial](https://vimeo.com/503475532)
 * [Patchbox OS](https://www.blokas.io/patchbox-os/) - Custom Linux distribution specially designed for Raspberry Pi based audio projects.
+
+
 
 ### Software synths
 
