@@ -26,6 +26,7 @@ A curated list of articles, libraries, software and whatnot related to music.
 * [Music thing modular](https://musicthing.co.uk/) - Open source electronic musical instruments designed in London. Home of the [Turing machine](https://musicthing.co.uk/pages/turing.html)
 * [Programmable Wrist Synth Pushes The Envelope](https://hackaday.com/2019/12/11/programmable-wrist-synth-pushes-the-envelope/)
 * [Robotic Polyphonic MIDI Instrument](https://frankpiesik.wordpress.com/2020/04/02/gregs-harp/) - Using teensy
+* [Mozzi - sound synthesis library for Arduino](https://github.com/sensorium/Mozzi)
 
 ### Libraries
 
